@@ -1,0 +1,12 @@
+body{
+    background-color: #ffffce;
+}
+
+div{
+    width: 80px;
+    height: 80px;
+    background-color: blueviolet;
+    margin: 1rem;
+    display: inline;
+    
+}
